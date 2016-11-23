@@ -6,7 +6,7 @@ import QuickHull
 import random
 
 points = []
-
+points_2 = [(0,0), (0,1), (2, 0), (1,1)]
 if __name__ == '__main__':
     #open file for storing results
     #run testing 10 times on 10 random inputs
@@ -15,6 +15,5 @@ if __name__ == '__main__':
             points.append((num-1,num+1))
 
 
-point_return = QuickHull.quickHullStart(points)
+print(points_2)
 print(points)
-print(point_return)
