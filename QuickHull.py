@@ -8,12 +8,10 @@ def cross(a, b, o):
 
 
 # http://stackoverflow.com/questions/27461634/calculate-distance-between-a-point-and-a-line-segment-in-latitude-and-longitude
-def distance(p0, p1, p2):  # p3 is the point
-    x0, y0 = p0
-    x1, y1 = p1
-    x2, y2 = p2
-    nom = abs((y2 - y1) * x0 - (x2 - x1) * y0 + x2 * y1 - y2 * x1)
-    denom = ((y2 - y1)**2 + (x2 - x1) ** 2) ** 0.5
+# modified to make simpler
+def distance(p1, p2, p3):  # p3 is the point
+    nom = abs((p2[1] - p1[1]) * p3[0] - (p2[0] - p1[0]) * p3[1] + p2[0] * p1[1] - p2[1] * p1[0])
+    denom = ((p2[1] - p1[1])**2 + (p2[0] - p1[0]) ** 2) ** 0.5
     result = nom / denom
     return result
 
@@ -54,12 +52,12 @@ def quick_hull(points: list):
 def find_hull(points: [tuple], l : tuple, r : tuple, convex_hull):
 
     # local vars
-    max_distance = 0
+    max_distance = -1
     farthest_point = None
     left_set = []
     right_set = []
 
-    # base case for recursing into list of size 1 or 0
+    # base case for recursion
     if len(points) == 0:
         return
 
