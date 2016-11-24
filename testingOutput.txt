@@ -1,0 +1,120 @@
+Outputs for iteration: 1 with input size 10000
+Quick Hull: 78.128173828125 Milliseconds
+Monotone Chain: 62.503173828125 Milliseconds
+Graham's Scan: 93.755615234375 Milliseconds
+Outputs for iteration: 2 with input size 20000
+Quick Hull: 270.888671875 Milliseconds
+Monotone Chain: 265.637451171875 Milliseconds
+Graham's Scan: 265.635498046875 Milliseconds
+Outputs for iteration: 3 with input size 30000
+Quick Hull: 687.53369140625 Milliseconds
+Monotone Chain: 515.650146484375 Milliseconds
+Graham's Scan: 505.843994140625 Milliseconds
+Outputs for iteration: 4 with input size 40000
+Quick Hull: 1224.269775390625 Milliseconds
+Monotone Chain: 892.234375 Milliseconds
+Graham's Scan: 859.4150390625 Milliseconds
+Outputs for iteration: 5 with input size 50000
+Quick Hull: 1803.439208984375 Milliseconds
+Monotone Chain: 1285.822021484375 Milliseconds
+Graham's Scan: 1437.5693359375 Milliseconds
+Outputs for iteration: 6 with input size 60000
+Quick Hull: 2645.872314453125 Milliseconds
+Monotone Chain: 1846.375244140625 Milliseconds
+Graham's Scan: 1859.46337890625 Milliseconds
+Outputs for iteration: 7 with input size 70000
+Quick Hull: 3610.90966796875 Milliseconds
+Monotone Chain: 2589.176513671875 Milliseconds
+Graham's Scan: 2782.93310546875 Milliseconds
+Outputs for iteration: 8 with input size 80000
+Quick Hull: 4853.158935546875 Milliseconds
+Monotone Chain: 3186.95166015625 Milliseconds
+Graham's Scan: 3546.640380859375 Milliseconds
+Outputs for iteration: 9 with input size 90000
+Quick Hull: 6538.83056640625 Milliseconds
+Monotone Chain: 4669.3291015625 Milliseconds
+Graham's Scan: 4642.95458984375 Milliseconds
+Outputs for iteration: 10 with input size 100000
+Quick Hull: 8049.344970703125 Milliseconds
+Monotone Chain: 5864.699951171875 Milliseconds
+Graham's Scan: 5870.60302734375 Milliseconds
+Outputs for iteration: 11 with input size 110000
+Quick Hull: 10072.0556640625 Milliseconds
+Monotone Chain: 6855.40380859375 Milliseconds
+Graham's Scan: 6931.260009765625 Milliseconds
+Outputs for iteration: 12 with input size 120000
+Quick Hull: 11814.91748046875 Milliseconds
+Monotone Chain: 8256.013427734375 Milliseconds
+Graham's Scan: 8438.160400390625 Milliseconds
+Outputs for iteration: 13 with input size 130000
+Quick Hull: 14638.86181640625 Milliseconds
+Monotone Chain: 9783.74951171875 Milliseconds
+Graham's Scan: 9772.419921875 Milliseconds
+Outputs for iteration: 14 with input size 140000
+Quick Hull: 16448.419921875 Milliseconds
+Monotone Chain: 11748.619384765625 Milliseconds
+Graham's Scan: 11759.61083984375 Milliseconds
+Outputs for iteration: 15 with input size 150000
+Quick Hull: 18817.384765625 Milliseconds
+Monotone Chain: 13443.272216796875 Milliseconds
+Graham's Scan: 13329.25439453125 Milliseconds
+Outputs for iteration: 16 with input size 160000
+Quick Hull: 21446.7119140625 Milliseconds
+Monotone Chain: 15235.03076171875 Milliseconds
+Graham's Scan: 15311.480224609375 Milliseconds
+Outputs for iteration: 17 with input size 170000
+Quick Hull: 24729.75341796875 Milliseconds
+Monotone Chain: 17047.944091796875 Milliseconds
+Graham's Scan: 17448.895263671875 Milliseconds
+Outputs for iteration: 18 with input size 180000
+Quick Hull: 26187.31787109375 Milliseconds
+Monotone Chain: 19281.555419921875 Milliseconds
+Graham's Scan: 19148.70263671875 Milliseconds
+Outputs for iteration: 19 with input size 190000
+Quick Hull: 27603.769775390625 Milliseconds
+Monotone Chain: 21251.11279296875 Milliseconds
+Graham's Scan: 21443.6162109375 Milliseconds
+Outputs for iteration: 20 with input size 200000
+Quick Hull: 29831.205078125 Milliseconds
+Monotone Chain: 24150.074462890625 Milliseconds
+Graham's Scan: 23683.55224609375 Milliseconds
+Outputs for iteration: 21 with input size 210000
+Quick Hull: 33184.5244140625 Milliseconds
+Monotone Chain: 27624.7998046875 Milliseconds
+Graham's Scan: 26691.841552734375 Milliseconds
+Outputs for iteration: 22 with input size 220000
+Quick Hull: 36621.262939453125 Milliseconds
+Monotone Chain: 30355.86279296875 Milliseconds
+Graham's Scan: 29779.066650390625 Milliseconds
+Outputs for iteration: 23 with input size 230000
+Quick Hull: 40288.90087890625 Milliseconds
+Monotone Chain: 31197.556640625 Milliseconds
+Graham's Scan: 32769.746826171875 Milliseconds
+Outputs for iteration: 24 with input size 240000
+Quick Hull: 44587.443359375 Milliseconds
+Monotone Chain: 35530.0390625 Milliseconds
+Graham's Scan: 33522.387451171875 Milliseconds
+Outputs for iteration: 25 with input size 250000
+Quick Hull: 48009.766845703125 Milliseconds
+Monotone Chain: 39513.48193359375 Milliseconds
+Graham's Scan: 38768.9072265625 Milliseconds
+Outputs for iteration: 26 with input size 260000
+Quick Hull: 51127.611083984375 Milliseconds
+Monotone Chain: 41387.489013671875 Milliseconds
+Graham's Scan: 41668.316650390625 Milliseconds
+Outputs for iteration: 27 with input size 270000
+Quick Hull: 56865.17919921875 Milliseconds
+Monotone Chain: 45910.354736328125 Milliseconds
+Graham's Scan: 44283.66650390625 Milliseconds
+Outputs for iteration: 28 with input size 280000
+Quick Hull: 61401.233642578125 Milliseconds
+Monotone Chain: 46471.70703125 Milliseconds
+Graham's Scan: 44045.0380859375 Milliseconds
+Outputs for iteration: 29 with input size 290000
+Quick Hull: 60975.078857421875 Milliseconds
+Monotone Chain: 48532.3056640625 Milliseconds
+Graham's Scan: 46319.544189453125 Milliseconds
+Outputs for iteration: 30 with input size 300000
+Quick Hull: 64416.34521484375 Milliseconds
+Monotone Chain: 43338.571044921875 Milliseconds
+Graham's Scan: 39531.38427734375 Milliseconds
