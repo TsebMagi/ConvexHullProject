@@ -1,0 +1,120 @@
+Iteration: 1 with input size 10000
+Quick Hull Average : 120.52001953125 Milliseconds
+Monotone Chain Average: 110.009765625 Milliseconds
+Graham's Scan Average: 179.021484375 Milliseconds
+Iteration: 2 with input size 20000
+Quick Hull Average : 579.074951171875 Milliseconds
+Monotone Chain Average: 497.568115234375 Milliseconds
+Graham's Scan Average: 406.5517578125 Milliseconds
+Iteration: 3 with input size 30000
+Quick Hull Average : 963.1220703125 Milliseconds
+Monotone Chain Average: 829.606201171875 Milliseconds
+Graham's Scan Average: 756.096923828125 Milliseconds
+Iteration: 4 with input size 40000
+Quick Hull Average : 1948.74462890625 Milliseconds
+Monotone Chain Average: 1246.6640625 Milliseconds
+Graham's Scan Average: 1421.2080078125 Milliseconds
+Iteration: 5 with input size 50000
+Quick Hull Average : 2892.1826171875 Milliseconds
+Monotone Chain Average: 1738.551513671875 Milliseconds
+Graham's Scan Average: 1841.582275390625 Milliseconds
+Iteration: 6 with input size 60000
+Quick Hull Average : 3393.13134765625 Milliseconds
+Monotone Chain Average: 2631.21044921875 Milliseconds
+Graham's Scan Average: 2547.147705078125 Milliseconds
+Iteration: 7 with input size 70000
+Quick Hull Average : 4474.25439453125 Milliseconds
+Monotone Chain Average: 3305.19677734375 Milliseconds
+Graham's Scan Average: 3555.20068359375 Milliseconds
+Iteration: 8 with input size 80000
+Quick Hull Average : 6035.35009765625 Milliseconds
+Monotone Chain Average: 4616.267333984375 Milliseconds
+Graham's Scan Average: 4467.259033203125 Milliseconds
+Iteration: 9 with input size 90000
+Quick Hull Average : 7463.43798828125 Milliseconds
+Monotone Chain Average: 5479.3173828125 Milliseconds
+Graham's Scan Average: 5407.308349609375 Milliseconds
+Iteration: 10 with input size 100000
+Quick Hull Average : 9019.523193359375 Milliseconds
+Monotone Chain Average: 6943.402099609375 Milliseconds
+Graham's Scan Average: 6812.390380859375 Milliseconds
+Iteration: 11 with input size 110000
+Quick Hull Average : 10031.58740234375 Milliseconds
+Monotone Chain Average: 8454.489501953125 Milliseconds
+Graham's Scan Average: 8437.48876953125 Milliseconds
+Iteration: 12 with input size 120000
+Quick Hull Average : 12571.728515625 Milliseconds
+Monotone Chain Average: 10234.5888671875 Milliseconds
+Graham's Scan Average: 9799.567626953125 Milliseconds
+Iteration: 13 with input size 130000
+Quick Hull Average : 14871.862548828125 Milliseconds
+Monotone Chain Average: 11879.68310546875 Milliseconds
+Graham's Scan Average: 10932.63525390625 Milliseconds
+Iteration: 14 with input size 140000
+Quick Hull Average : 16829.970458984375 Milliseconds
+Monotone Chain Average: 13757.797119140625 Milliseconds
+Graham's Scan Average: 13971.81494140625 Milliseconds
+Iteration: 15 with input size 150000
+Quick Hull Average : 19220.114013671875 Milliseconds
+Monotone Chain Average: 15382.8916015625 Milliseconds
+Graham's Scan Average: 15350.8896484375 Milliseconds
+Iteration: 16 with input size 160000
+Quick Hull Average : 22083.275146484375 Milliseconds
+Monotone Chain Average: 18043.046142578125 Milliseconds
+Graham's Scan Average: 17392.00830078125 Milliseconds
+Iteration: 17 with input size 170000
+Quick Hull Average : 26012.528076171875 Milliseconds
+Monotone Chain Average: 20629.19091796875 Milliseconds
+Graham's Scan Average: 19903.153564453125 Milliseconds
+Iteration: 18 with input size 180000
+Quick Hull Average : 28705.66357421875 Milliseconds
+Monotone Chain Average: 23661.3662109375 Milliseconds
+Graham's Scan Average: 22587.308837890625 Milliseconds
+Iteration: 19 with input size 190000
+Quick Hull Average : 30952.788818359375 Milliseconds
+Monotone Chain Average: 25728.49072265625 Milliseconds
+Graham's Scan Average: 25969.510498046875 Milliseconds
+Iteration: 20 with input size 200000
+Quick Hull Average : 36050.087646484375 Milliseconds
+Monotone Chain Average: 29442.700927734375 Milliseconds
+Graham's Scan Average: 28016.624267578125 Milliseconds
+Iteration: 21 with input size 210000
+Quick Hull Average : 38850.251708984375 Milliseconds
+Monotone Chain Average: 31655.829345703125 Milliseconds
+Graham's Scan Average: 30641.7763671875 Milliseconds
+Iteration: 22 with input size 220000
+Quick Hull Average : 44573.58544921875 Milliseconds
+Monotone Chain Average: 41562.674560546875 Milliseconds
+Graham's Scan Average: 34105.016357421875 Milliseconds
+Iteration: 23 with input size 230000
+Quick Hull Average : 43727.45947265625 Milliseconds
+Monotone Chain Average: 36025.99609375 Milliseconds
+Graham's Scan Average: 34344.749755859375 Milliseconds
+Iteration: 24 with input size 240000
+Quick Hull Average : 45796.302734375 Milliseconds
+Monotone Chain Average: 38860.84326171875 Milliseconds
+Graham's Scan Average: 53186.463134765625 Milliseconds
+Iteration: 25 with input size 250000
+Quick Hull Average : 65656.20239257812 Milliseconds
+Monotone Chain Average: 43818.26416015625 Milliseconds
+Graham's Scan Average: 43517.443115234375 Milliseconds
+Iteration: 26 with input size 260000
+Quick Hull Average : 56563.700439453125 Milliseconds
+Monotone Chain Average: 47397.166015625 Milliseconds
+Graham's Scan Average: 44716.115234375 Milliseconds
+Iteration: 27 with input size 270000
+Quick Hull Average : 59550.89501953125 Milliseconds
+Monotone Chain Average: 49540.71923828125 Milliseconds
+Graham's Scan Average: 48988.115966796875 Milliseconds
+Iteration: 28 with input size 280000
+Quick Hull Average : 65889.40087890625 Milliseconds
+Monotone Chain Average: 54562.466064453125 Milliseconds
+Graham's Scan Average: 52478.056884765625 Milliseconds
+Iteration: 29 with input size 290000
+Quick Hull Average : 68341.1220703125 Milliseconds
+Monotone Chain Average: 58291.8486328125 Milliseconds
+Graham's Scan Average: 56565.592529296875 Milliseconds
+Iteration: 30 with input size 300000
+Quick Hull Average : 73266.21020507812 Milliseconds
+Monotone Chain Average: 60715.742919921875 Milliseconds
+Graham's Scan Average: 58308.19970703125 Milliseconds
