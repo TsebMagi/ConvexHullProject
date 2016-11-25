@@ -46,9 +46,9 @@ if __name__ == '__main__':
         g_time = end_time - start_time
 
         header_string = "input size "+ (num*10000).__str__() +"\n"
-        QuickHull_string = "Quick Hull "+ q_time.__str__() +"\n"
-        MonotoneChain_string = "Monotone Chain " + m_time.__str__() + "\n"
-        GrahamsScan_string = "Graham's Scan " + g_time.__str__() + "\n"
+        QuickHull_string = "Quick Hull , input Size, "+ (num*10000).__str__() + q_time.__str__() +"\n"
+        MonotoneChain_string = "Monotone Chain , input Size, "+ (num*10000).__str__() + m_time.__str__() + "\n"
+        GrahamsScan_string = "Graham's Scan , input Size, "+ (num*10000).__str__() + "," + g_time.__str__() + "\n"
         output.write(header_string)
         output.write(QuickHull_string)
         output.write(MonotoneChain_string)
