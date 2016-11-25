@@ -13,7 +13,7 @@ points = []
 
 if __name__ == '__main__':
     # open file for storing results
-    output = open('TestingOutputRun2.txt','w')
+    output = open('TestingOutputRun3.txt','w')
     for num in range(1, 31):
         print("Run ", num)
         for i in range(0, num* 10000):
