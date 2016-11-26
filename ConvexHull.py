@@ -4,7 +4,7 @@
 
 import MonotoneChain
 import QuickHull
-import GrahamsScan
+import JarvisMarch
 import random
 import time
 
@@ -13,7 +13,7 @@ points = []
 
 if __name__ == '__main__':
     # open file for storing results
-    output = open('TestingOutputRun3.txt','w')
+    output = open('output2.txt','w')
     for num in range(1, 31):
         print("Run ", num)
         for i in range(0, num* 10000):
@@ -21,17 +21,17 @@ if __name__ == '__main__':
 
         q_points = points
         m_points = points
-        g_points = points
+        j_points = points
 
         q_time = 0
         m_time = 0
-        g_time = 0
+        j_time = 0
 
         # Time the Quick Hull
         start_time = time.time() * 1000
         QuickHull.quick_hull(q_points)
         end_time = time.time() * 1000
-        q_time += end_time - start_time
+        q_time = end_time - start_time
 
         # Time the Quick Hull
         start_time = time.time() * 1000
@@ -41,17 +41,17 @@ if __name__ == '__main__':
 
         # Time the Quick Hull
         start_time = time.time() * 1000
-        GrahamsScan.convex_hull(g_points)
+        JarvisMarch.convex_hull(j_points)
         end_time = time.time() * 1000
-        g_time = end_time - start_time
+        j_time = end_time - start_time
 
         header_string = "input size "+ (num*10000).__str__() +"\n"
-        QuickHull_string = "Quick Hull , input Size, "+ (num*10000).__str__() + q_time.__str__() +"\n"
-        MonotoneChain_string = "Monotone Chain , input Size, "+ (num*10000).__str__() + m_time.__str__() + "\n"
-        GrahamsScan_string = "Graham's Scan , input Size, "+ (num*10000).__str__() + "," + g_time.__str__() + "\n"
+        QuickHull_string = "Quick Hull , input Size "+ (num*10000).__str__()+ "," + q_time.__str__() +"\n"
+        MonotoneChain_string = "Monotone Chain , input Size "+ (num*10000).__str__()+ "," + m_time.__str__() + "\n"
+        Jarvis_March_string = "Jarvis_March , input Size "+ (num*10000).__str__() + "," + j_time.__str__() + "\n"
         output.write(header_string)
         output.write(QuickHull_string)
         output.write(MonotoneChain_string)
-        output.write(GrahamsScan_string)
+        output.write(Jarvis_March_string)
     output.close()
     print("Done!")

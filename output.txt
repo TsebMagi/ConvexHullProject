@@ -1,0 +1,120 @@
+input size 10000
+Quick Hull , input Size 10000,125.0
+Monotone Chain , input Size 10000,78.130615234375
+Jarvis_March , input Size 10000,281.24560546875
+input size 20000
+Quick Hull , input Size 20000,359.3759765625
+Monotone Chain , input Size 20000,250.00048828125
+Jarvis_March , input Size 20000,979.611083984375
+input size 30000
+Quick Hull , input Size 30000,791.98876953125
+Monotone Chain , input Size 30000,537.400390625
+Jarvis_March , input Size 30000,2415.24365234375
+input size 40000
+Quick Hull , input Size 40000,1375.3076171875
+Monotone Chain , input Size 40000,890.63134765625
+Jarvis_March , input Size 40000,4213.53759765625
+input size 50000
+Quick Hull , input Size 50000,1965.490478515625
+Monotone Chain , input Size 50000,1379.103759765625
+Jarvis_March , input Size 50000,6133.679443359375
+input size 60000
+Quick Hull , input Size 60000,2798.148681640625
+Monotone Chain , input Size 60000,2041.127685546875
+Jarvis_March , input Size 60000,8838.396728515625
+input size 70000
+Quick Hull , input Size 70000,4023.536376953125
+Monotone Chain , input Size 70000,2754.564208984375
+Jarvis_March , input Size 70000,12005.12890625
+input size 80000
+Quick Hull , input Size 80000,5257.36865234375
+Monotone Chain , input Size 80000,3997.6826171875
+Jarvis_March , input Size 80000,18607.857666015625
+input size 90000
+Quick Hull , input Size 90000,8641.76220703125
+Monotone Chain , input Size 90000,6659.537353515625
+Jarvis_March , input Size 90000,21327.838623046875
+input size 100000
+Quick Hull , input Size 100000,8446.865966796875
+Monotone Chain , input Size 100000,6382.03857421875
+Jarvis_March , input Size 100000,26063.90185546875
+input size 110000
+Quick Hull , input Size 110000,12386.30517578125
+Monotone Chain , input Size 110000,7945.5380859375
+Jarvis_March , input Size 110000,34384.405029296875
+input size 120000
+Quick Hull , input Size 120000,13874.227294921875
+Monotone Chain , input Size 120000,10307.09228515625
+Jarvis_March , input Size 120000,53532.399169921875
+input size 130000
+Quick Hull , input Size 130000,23076.448486328125
+Monotone Chain , input Size 130000,14917.93408203125
+Jarvis_March , input Size 130000,71148.90966796875
+input size 140000
+Quick Hull , input Size 140000,21381.234619140625
+Monotone Chain , input Size 140000,17631.02685546875
+Jarvis_March , input Size 140000,96350.66870117188
+input size 150000
+Quick Hull , input Size 150000,34640.468994140625
+Monotone Chain , input Size 150000,22744.565185546875
+Jarvis_March , input Size 150000,72093.92602539062
+input size 160000
+Quick Hull , input Size 160000,31407.4365234375
+Monotone Chain , input Size 160000,25894.500732421875
+Jarvis_March , input Size 160000,103373.79028320312
+input size 170000
+Quick Hull , input Size 170000,34278.738037109375
+Monotone Chain , input Size 170000,33092.3095703125
+Jarvis_March , input Size 170000,139019.32250976562
+input size 180000
+Quick Hull , input Size 180000,40596.955322265625
+Monotone Chain , input Size 180000,33632.010986328125
+Jarvis_March , input Size 180000,135678.42041015625
+input size 190000
+Quick Hull , input Size 190000,45538.454833984375
+Monotone Chain , input Size 190000,34674.003173828125
+Jarvis_March , input Size 190000,115968.35131835938
+input size 200000
+Quick Hull , input Size 200000,40998.196044921875
+Monotone Chain , input Size 200000,34179.8671875
+Jarvis_March , input Size 200000,122346.70239257812
+input size 210000
+Quick Hull , input Size 210000,41679.4560546875
+Monotone Chain , input Size 210000,33927.25048828125
+Jarvis_March , input Size 210000,142305.58813476562
+input size 220000
+Quick Hull , input Size 220000,46164.6572265625
+Monotone Chain , input Size 220000,37823.770751953125
+Jarvis_March , input Size 220000,156422.22875976562
+input size 230000
+Quick Hull , input Size 230000,50336.513427734375
+Monotone Chain , input Size 230000,41122.828857421875
+Jarvis_March , input Size 230000,169531.50610351562
+input size 240000
+Quick Hull , input Size 240000,55292.551513671875
+Monotone Chain , input Size 240000,44909.654052734375
+Jarvis_March , input Size 240000,191154.46704101562
+input size 250000
+Quick Hull , input Size 250000,59824.98193359375
+Monotone Chain , input Size 250000,48552.703857421875
+Jarvis_March , input Size 250000,201413.68432617188
+input size 260000
+Quick Hull , input Size 260000,64876.713134765625
+Monotone Chain , input Size 260000,53392.976318359375
+Jarvis_March , input Size 260000,222549.71337890625
+input size 270000
+Quick Hull , input Size 270000,68973.25170898438
+Monotone Chain , input Size 270000,56835.558837890625
+Jarvis_March , input Size 270000,246465.69897460938
+input size 280000
+Quick Hull , input Size 280000,74687.91723632812
+Monotone Chain , input Size 280000,62184.516357421875
+Jarvis_March , input Size 280000,271723.0837402344
+input size 290000
+Quick Hull , input Size 290000,81185.43481445312
+Monotone Chain , input Size 290000,67087.490234375
+Jarvis_March , input Size 290000,299285.7587890625
+input size 300000
+Quick Hull , input Size 300000,86635.96875
+Monotone Chain , input Size 300000,71392.56274414062
+Jarvis_March , input Size 300000,294873.9665527344
